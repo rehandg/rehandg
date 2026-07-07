@@ -1,34 +1,99 @@
 # Hi, I'm Rehan Ghori
-Inside-Out Cybersecurity Analyst & Defender | Focused on SIEM, Cloud Security, & Automation
 
-Highly technical and hands-on professional tracking toward SOC/Defensive Security roles. 
-I build virtual architectures, analyze traffic, and automate threat detection to mimic 
-enterprise environments.
+Cybersecurity Engineer in Development | Building Enterprise Security Labs | Linux • Networking • SOC • Cloud Security • Security Automation
 
-## Technical Ecosystem
-- **Defensive & Monitoring:** Splunk, ELK Stack, Wireshark, Suricata, Zeek, Microsoft Sentinel
-- **Operating Systems & Cloud:** Linux (CLI, Hardening), Windows Server (Active Directory, PowerShell), AWS (IAM, VPC, CloudTrail)
-- **Automation & Scripting:** Python (Log parsing, IOC extraction), Bash, Git/GitHub, Docker
-- **Frameworks:** MITRE ATT&CK, NIST CSF
+I'm a Computer Science graduate focused on building practical cybersecurity skills through enterprise-style security labs, infrastructure projects, and real-world security engineering.
 
-## Featured Cybersecurity Projects (2026 Upskilling)
+My objective is to develop the technical depth expected of a security professional by designing, documenting, and securing enterprise environments while continuously expanding my knowledge across defensive security, cloud security, detection engineering, and security automation.
 
-### 🔹 [Enterprise SIEM Deployment & Log Analysis]()
-**Tools:** Splunk Free, Windows Event Logs, Linux Syslog, PfSense
-- Built a home lab with 4 virtual machines routing traffic through a dedicated firewall.
-- Ingested syslogs and event logs into a centralized Splunk instance.
-- Authored custom SPL queries and dashboards to flag brute-force SSH attacks and port scans.
+---
 
-### 🔹 [Automated Network Traffic Parser (Python)]()
-**Tools:** Python, Tshark, VirusTotal API, Docker
-- Developed a Python script that utilizes `tshark` to capture live inter-VM traffic.
-- Extracts unique IP addresses and file hashes on the fly, automatically querying the VirusTotal API for threat intelligence enrichment.
+## Core Areas of Focus
 
-### 🔹 [Cloud Security & IAM Hardening Lab (AWS)]()
-**Tools:** AWS IAM, VPC, S3, CloudTrail, AWS CLI
-- Configured a secure VPC architecture utilizing strict Security Groups and Network ACLs.
-- Executed a simulated IAM misconfiguration exploit (privilege escalation) and documented the remediation process using AWS Security Hub.
+### Enterprise Infrastructure
+- Linux Administration
+- Windows Administration
+- Enterprise Networking
+- Virtualization
+- Infrastructure Design
 
-## Current Focus & Certifications
-- **Currently studying for:** CompTIA Security+ / AWS Certified Security Specialty
-- **Daily Sandbox:** Analyzing malicious artifacts on TryHackMe & CyberDefenders
+### Defensive Security
+- Security Operations (SOC)
+- Threat Detection
+- Incident Investigation
+- Network Traffic Analysis
+- Vulnerability Assessment
+
+### Security Engineering
+- Security Automation
+- Python
+- Bash
+- Git & GitHub
+
+### Cloud & Modern Infrastructure
+- AWS
+- Docker
+- Identity & Access Management
+- Infrastructure Security
+
+---
+
+## Current Engineering Initiative
+
+### Enterprise Security Lab (2026)
+
+Designing and documenting an enterprise-style cybersecurity lab that simulates real-world infrastructure and defensive security workflows.
+
+The lab is being developed incrementally and will eventually include:
+
+- Linux Servers
+- Windows Server
+- Active Directory
+- Kali Linux
+- pfSense Firewall
+- Splunk SIEM
+- Detection Engineering
+- Security Automation
+- Cloud Security
+- Threat Hunting
+
+Each implementation is fully documented with architecture diagrams, technical decisions, evidence, screenshots, investigation notes, and engineering reports.
+
+---
+
+## Engineering Philosophy
+
+Every project I build answers seven questions:
+
+1. What problem is being solved?
+2. What architecture was designed?
+3. Why were these technologies selected?
+4. How was the solution implemented?
+5. What evidence proves it works?
+6. What lessons were learned?
+7. How would this be implemented in a real enterprise environment?
+
+---
+
+## Featured Repositories
+
+- Enterprise Security Lab
+- Cybersecurity Internship Portfolio
+- Personal Firewall using Python
+- Web Vulnerability Scanner
+
+---
+
+## Current Learning
+
+- Linux Administration
+- Enterprise Networking
+- Security Operations (SOC)
+- Detection Engineering
+- Python Security Automation
+- Enterprise Infrastructure
+- Cloud Security
+
+---
+
+> "Building practical security engineering skills through continuous hands-on learning, documentation, and real-world enterprise lab development."
